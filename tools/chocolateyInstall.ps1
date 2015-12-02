@@ -1,6 +1,6 @@
 ﻿$packageName = 'borderlessgaming' 
 $installerType = 'exe' 
-$url = 'https://github.com/Codeusa/Borderless-Gaming/releases/download/8.2/BorderlessGaming_8.2__setup.exe' 
+$url = 'https://github.com/Codeusa/Borderless-Gaming/releases/download/8.4/BorderlessGaming_8.4__setup.exe' 
 $silentArgs = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-' 
 $validExitCodes = @(0) 
 
