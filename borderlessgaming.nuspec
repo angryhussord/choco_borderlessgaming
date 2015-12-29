@@ -20,6 +20,10 @@
       <dependency id="" version="" />
     </dependencies>-->
     <releaseNotes>https://github.com/Codeusa/Borderless-Gaming/releases/latest</releaseNotes>
+    <docsUrl>https://steamcommunity.com/app/388080/discussions/0/535151589899658778/</docsUrl>
+    <bugTrackerUrl>https://github.com/Codeusa/Borderless-Gaming/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/Codeusa/Borderless-Gaming</projectSourceUrl>
+    <packageSourceUrl>https://github.com/angryhussord/choco_borderlessgaming</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
