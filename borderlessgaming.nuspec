@@ -5,13 +5,13 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>borderlessgaming</id>
     <title>BorderlessGaming</title>
-    <version>9.1</version>
+    <version>9.1.20170417</version>
     <authors>psouza4</authors>
     <owners>angryhussord</owners>
     <summary>Borderless Gaming is a simple tool that will allow you to turn your windowed video games into "fullscreen" applications.</summary>
     <description>Borderless Gaming is a simple tool that will allow you to turn your windowed video games into "fullscreen" applications without all of the negative side effects.</description>
     <projectUrl>https://github.com/Codeusa/Borderless-Gaming</projectUrl>
-    <tags>gaming borderless full screen windowed mode alt-tab</tags>
+    <tags>gaming borderless full screen windowed mode alt-tab admin</tags>
     <copyright></copyright>
     <licenseUrl>https://github.com/Codeusa/Borderless-Gaming/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
