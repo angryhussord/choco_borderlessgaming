@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>borderlessgaming</id>
     <title>BorderlessGaming</title>
-    <version>8.4</version>
+    <version>9.1</version>
     <authors>psouza4</authors>
     <owners>angryhussord</owners>
     <summary>Borderless Gaming is a simple tool that will allow you to turn your windowed video games into "fullscreen" applications.</summary>
