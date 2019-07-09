@@ -3,7 +3,7 @@
 $packageName = 'borderlessgaming'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)";
 $installerType = 'EXE'
-$url = 'https://github.com/Codeusa/Borderless-Gaming/releases/download/9.5.5/BorderlessGaming9.5.5_admin_setup.exe'
+$url = 'https://github.com/Codeusa/Borderless-Gaming/releases/download/9.5.6/BorderlessGaming9.5.6_admin_setup.exe'
 
 $packageArgs = @{
   packageName   = $packageName
@@ -13,7 +13,7 @@ $packageArgs = @{
   silentArgs    = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
   validExitCodes= @(0)
   softwareName  = 'borderlessgaming*'
-  checksum      = 'EC435FCB49345803BE505A237FD81F07177B0B7F9066F699BFE8D124D8C2EFD3'
+  checksum      = '250D2D883CB9F5A05A60BE5B74191CA357489686A979CF7832FCB4C5F0522EDA'
   checksumType  = 'sha256'
 };
 
